@@ -1,1 +1,1 @@
-# skillgapfinder-mern
+This is the project where I have incorporated my SkillGapFinder project into a MERN stack (so that there is a good frontend+backend.)
